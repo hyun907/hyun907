@@ -12,7 +12,6 @@
 />
 </a>
 <br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun907)](https://solved.ac/hyun907/)
 </div>
 <div style="text-align: left;"> 
     <div style="text-align: left;">
