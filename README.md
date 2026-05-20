@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Seunghyun
 
 <div align="center">
-  <img width="420" alt="리드미" src="https://github.com/user-attachments/assets/f4b7865f-bdb8-4914-8b27-fb21d4c98b29" />
+  <img width="600" alt="리드미" src="https://github.com/user-attachments/assets/f4b7865f-bdb8-4914-8b27-fb21d4c98b29" />
 </div>
 
 <br />
