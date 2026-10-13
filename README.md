@@ -1,9 +1,7 @@
 # 👋 Hello, I'm Seunghyun
 
 <div align="center">
-
-  <img width="600" alt="리드미" src="./assets/readme.png" />
-
+ <img width="600" alt="리드미" src="https://github.com/user-attachments/assets/49a1afa6-c6fc-4e4c-a04a-0195fde382d4" />
 </div>
 
 <br />
@@ -28,7 +26,8 @@
 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxnIGlkPSJzIj48cmVjdCB4PSIwIiB5PSI2LjMxMyIgd2lkdGg9IjExLjM1NSIgaGVpZ2h0PSI1LjA0MiIgcng9IjIuNTIxIi8+PGNpcmNsZSBjeD0iOC44MzQiIGN5PSIyLjUyMSIgcj0iMi41MjEiLz48L2c+PHVzZSBocmVmPSIjcyIgdHJhbnNmb3JtPSJyb3RhdGUoOTAgMTIgMTIpIi8+PHVzZSBocmVmPSIjcyIgdHJhbnNmb3JtPSJyb3RhdGUoMTgwIDEyIDEyKSIvPjx1c2UgaHJlZj0iI3MiIHRyYW5zZm9ybT0icm90YXRlKDI3MCAxMiAxMikiLz48L3N2Zz4=" alt="Slack" />
+
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
 
