@@ -36,12 +36,11 @@
 
 ## 🚀 Activities
 
-- **SKALA 4기** (SK AI Leader Academy) `2026.07 - 2026.12` — 참여 중. AX 트랙 부트캠프. LLM 서비스 구현(Spring AI, LangGraph), 모델 경량화(PyTorch), 팀 단위 Agent 개발
-- **Central MakeUs Challenge 18th** `2025.12 - 2026.03` — 수익형 앱 런칭 동아리. Web 파트 수료. 가계부 앱 Play Store / App Store 출시
-- **숭실대학교 IT 지원위원회** `2025.09 -`  — Frontend Lead. 교내 서비스 개발 및 운영
-- **숭실대학교 멋쟁이사자처럼 13기** `2024.12 - 2025.12` — 웹 프론트엔드 파트장. 커리큘럼 설계, 세션·스터디 운영, 프로젝트 멘토링
-- **숭실대학교 멋쟁이사자처럼 12기** `2024.03 - 2024.12` — 웹 프론트엔드 수료. 
-
+- **SKALA 4기** (SK AI Leader Academy) `2026.07 - 2026.12` — AX Track Bootcamp
+- **Central MakeUs Challenge 18th** `2025.12 - 2026.03` — Web Frontend
+- **숭실대학교 IT 지원위원회** `2025.09 -`  — Frontend Lead
+- **숭실대학교 멋쟁이사자처럼 13기** `2024.12 - 2025.12` — Web Frontend Part Leader
+- **숭실대학교 멋쟁이사자처럼 12기** `2024.03 - 2024.12` — Web Frontend
 <br />
 
 <div align="center">
